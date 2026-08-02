@@ -1,14 +1,17 @@
-# 🧠 I Made Bimantoro Mastra — AI Research Engineer
+<h2 align="center">
+  👋 Nice to meet you, I'm Bima
+</h2>
 
 <p align="center">
 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" />
+  Data Scientist | Machine Learning Engineer | 3D Artist
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,blender,unreal,git,vscode" />
 </p>
 
 ---
