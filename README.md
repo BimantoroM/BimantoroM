@@ -103,21 +103,3 @@ researcher = {
 Open to: **ML Research Collabs · Speaking Engagements · Kaggle Teams · Consulting**
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://huggingface.co/your-username"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
-  <a href="https://kaggle.com/your-username"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-</p>
-
----
-<p align="center"><i>🧠 From <a href="https://github.com/your-username">your-username</a> — Advancing AI, one commit at a time.</i></p>
-      
-
-
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/2ffzpza56df1fobweerl7t7r-dark.svg?v=1785677469881">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/2ffzpza56df1fobweerl7t7r-light.svg?v=1785677469881">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/2ffzpza56df1fobweerl7t7r-dark.svg?v=1785677469881">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
-<!-- GITHUBWALLPAPER:END -->
