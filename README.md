@@ -21,7 +21,7 @@
 ```python
 researcher = {
     "name": "I Made Bimantoro Mastra",
-    "affiliation": "AI Research Lab @ [University/Company]",
+    "affiliation": "AI Machine Learning @ [Dibimbing]",
     "phd": "Computer Science — NLP Specialization (2021)",
     "focus_areas": [
         "Large Language Models (LLMs) & RLHF",
