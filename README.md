@@ -19,7 +19,7 @@
 ## 🔬 Research Interests
 
 ```python
-researcher = {
+Work in Progress = {
     "name": "I Made Bimantoro Mastra",
     "affiliation": "AI Machine Learning @ [Dibimbing]",
     "phd": "Computer Science — NLP Specialization (2021)",
