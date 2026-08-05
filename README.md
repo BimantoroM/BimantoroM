@@ -67,28 +67,6 @@ Work in Progress = {
 
 ---
 
-## 📚 Selected Publications
-
-| Year | Title | Venue | Citations |
-|------|-------|-------|-----------|
-| 2024 | [ContextBench: Evaluating LLMs on Long-Context Reasoning](https://arxiv.org/abs/2024.xxxxx) | NeurIPS 2024 | 234 |
-| 2023 | [EfficientMamba: State Space Models at Scale](https://arxiv.org/abs/2023.xxxxx) | ICML 2023 | 891 |
-| 2023 | [MultiModal-CLIP: Extending CLIP for Tabular Data](https://arxiv.org/abs/2023.xxxxx) | EMNLP 2023 | 412 |
-| 2022 | [GNN-Drug: Graph Attention Networks for Drug Discovery](https://arxiv.org/abs/2022.xxxxx) | Nature MI | 1,204 |
-
----
-
-## 🏆 Kaggle Competition Results
-
-| Competition | Result | Medal |
-|-------------|--------|-------|
-| Google – Isolated Sign Language Recognition | 🥇 1st / 2,742 teams | 🏅 Gold |
-| LLM Science Exam | 🥇 1st / 2,147 teams | 🏅 Gold |
-| BirdCLEF 2023 | 🥈 2nd / 1,856 teams | 🥈 Silver |
-| Feedback Prize – English Language Learning | 🥉 4th / 2,654 teams | 🥉 Bronze |
-
----
-
 ## 📊 GitHub & Research Stats
 
 <p align="center">
