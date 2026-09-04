@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  Data Scientist | Machine Learning Engineer | 3D Artist
+  Data Scientist | Machine Learning Engineer 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,blender,unreal,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,MySQL,git,vscode" />
 </p>
 
 ---
