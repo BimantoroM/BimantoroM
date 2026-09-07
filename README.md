@@ -1,17 +1,47 @@
-# 👋 Hi, I'm Bima!
+<h2 align="center">
+👋 Hi, I'm Bima!
+  
+</h2>
 
-### Data Science & Machine Learning Learner
-
+<p align="center">
 📊 Exploring Data  
 🤖 Building Machine Learning Models  
 🚀 Documenting My Learning Journey
+</p>
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,MySQL,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,postgres,sklearn,tensorflow" />
+</p>
+
+<p align="center">
+  <sub>Creative Background</sub><br><br>
+  <img src="https://skillicons.dev/icons?i=blender,unreal" />
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+🎓 Graduate of Visual Communication Design (Animation) from BINUS University
+
+🔄 Currently transitioning into Data Science & Machine Learning
+
+📚 Learning through hands-on projects and the
+DiBimbing Data Science & Machine Learning Bootcamp
+
+📊 Areas of Interest:
+
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Predictive Modeling
+
+🎨 Background in creative and visual communication,
+which helps me present data and insights in a clear
+and engaging way.
+
+---
 ## 🔬 Research Interests
 
 ```python
