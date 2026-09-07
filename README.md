@@ -1,14 +1,10 @@
-<h2 align="center">
-  👋 Nice to meet you, I'm Bima
-</h2>
+# 👋 Hi, I'm Bima!
 
-<p align="center">
+### Data Science & Machine Learning Learner
 
-</p>
-
-<p align="center">
-  Data Scientist | Machine Learning Engineer 
-</p>
+📊 Exploring Data  
+🤖 Building Machine Learning Models  
+🚀 Documenting My Learning Journey
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,MySQL,git,vscode" />
