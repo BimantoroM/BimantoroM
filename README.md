@@ -68,8 +68,10 @@ and engaging way.
 
 </p>
 
-🏅 Badges
-⭐ Skills
+## 🟢 HackerRank Progress
+
+🏅 Badges  
+⭐ Skills  
 📈 Challenge Progress
 
 ## 🏆 GitHub Achievements
@@ -92,7 +94,7 @@ sales trends, customer behavior, and business insights.
 
 Python | Pandas | Seaborn | Matplotlib
 
-🔗 View Project
+🔗 [View Project](https://github.com/BimantoroM/ecommerce_analysis.ipynb)
 
 
 
@@ -106,6 +108,8 @@ during the DiBimbing DSML Bootcamp.
 **Topics**
 
 Python | SQL | EDA | Machine Learning
+
+🔗 [View Project](https://github.com/BimantoroM/data-science-machine-learning-bootcamp)
 
 ---
 
