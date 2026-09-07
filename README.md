@@ -52,27 +52,31 @@ and engaging way.
 
 ---
 
-## 🏆 Kaggle Progress
+<h2 align="center">🏆 Coding & Learning Journey</h2>
+
+<h3 align="center">🟡 Kaggle</h3>
 
 <p align="center">
-
-<img src="YOUR_KAGGLE_STATS_HERE"/>
-
+  <a href="https://www.kaggle.com/imadebimantoromastra">
+    <img src="https://img.shields.io/badge/Kaggle-imadebimantoromastra-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
-## 🧠 LeetCode Progress
+<h3 align="center">🟠 LeetCode</h3>
 
 <p align="center">
-
-<img src="LEETCODE_STATS_URL"/>
-
+  <a href="https://leetcode.com/u/bimantorom/">
+    <img src="https://leetcard.jacoblin.cool/bimantorom?theme=dark" />
+  </a>
 </p>
 
-## 🟢 HackerRank Progress
+<h3 align="center">🟢 HackerRank</h3>
 
-🏅 Badges  
-⭐ Skills  
-📈 Challenge Progress
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/bimantoromastra">
+    <img src="https://img.shields.io/badge/HackerRank-bimantoromastra-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 ## 🏆 GitHub Achievements
