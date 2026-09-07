@@ -74,6 +74,7 @@ and engaging way.
 ⭐ Skills  
 📈 Challenge Progress
 
+---
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -98,8 +99,6 @@ Python | Pandas | Seaborn | Matplotlib
 
 
 
----
-
 ### 📚 Data Science & Machine Learning Bootcamp
 
 Collection of assignments and projects completed
@@ -113,8 +112,13 @@ Python | SQL | EDA | Machine Learning
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-Open to: **ML Research Collabs · Speaking Engagements · Kaggle Teams · Consulting**
+Open to:
 
-<p align="center">
+📊 Data Science Projects  
+🤖 Machine Learning Discussions  
+📚 Learning Opportunities  
+🤝 Collaboration & Networking
+
+Feel free to connect with me!
